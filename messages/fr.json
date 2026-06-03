@@ -1,0 +1,191 @@
+{
+  "metadata": {
+    "title": "JF Studio | Stratégie narrative, storytelling et influence",
+    "description": "JF Studio aide les organisations à structurer leurs récits, renforcer leur influence culturelle et créer des liens avec leurs publics grâce au storytelling, à la stratégie de communication, à la pensée éditoriale et à l’influence médiatique.",
+    "socialDescription": "Nous créons des récits puissants qui aident les organisations à élargir leur portée, renforcer leur influence et créer un lien avec de vraies personnes.",
+    "ogAlt": "JF Studio stratégie narrative et storytelling"
+  },
+  "nav": {
+    "items": [
+      { "label": "Qui nous sommes", "href": "#who-we-are" },
+      { "label": "Comment nous aidons", "href": "#how-we-help" },
+      { "label": "Services", "href": "#services" },
+      { "label": "Réalisations", "href": "#work" },
+      { "label": "Contact", "href": "#contact" }
+    ],
+    "cta": "Discutons",
+    "homeLabel": "Accueil J&F Studio",
+    "openMenu": "Ouvrir la navigation",
+    "closeMenu": "Fermer la navigation",
+    "languages": { "en": "EN", "fr": "FR" }
+  },
+  "hero": {
+    "headline": "Nous créons des récits puissants",
+    "subheadline": "pour renforcer votre influence et créer un lien avec de vraies personnes.",
+    "tagline": "L’intelligence culturelle est notre zone de génie.",
+    "body": "J&F Studio, la branche créative de Jeli & Folks, ou comme nous aimons le dire, \"le cousin cool\", aide les marques internationales et les multinationales à façonner les marchés, stimuler l’influence et établir leur crédibilité par le storytelling. Nous faisons le lien entre le business, les médias et les politiques publiques.",
+    "bodySecondary": "Grâce à du contenu de marque à fort impact, des campagnes de sensibilisation et du positionnement médiatique de dirigeants, nous vous aidons à façonner les marchés, déplacer les perceptions et bâtir des partenariats durables — même dans les secteurs les plus réglementés.",
+    "primaryCta": "En savoir plus",
+    "secondaryCta": "Ouvrir la conversation",
+    "visualCards": [
+      { "label": "Intelligence culturelle", "text": "Des histoires qui circulent entre les salles, les écrans et les marchés." },
+      { "label": "Regard studio", "text": "Business. Médias. Politiques publiques. Culture." },
+      { "label": "Travail éditorial", "text": "Un contenu qui ne se contente pas d’atteindre les publics. Il les déplace." },
+      { "label": "Note du studio", "text": "Le cousin cool." }
+    ]
+  },
+  "who": {
+    "eyebrow": "Qui nous sommes",
+    "headline": "Nous apportons une approche culturelle de la communication à travers les géographies, dans les moments à forts enjeux.",
+    "body": "Nous sommes un studio créatif affilié à Jeli & Folks, un cabinet de conseil stratégique spécialisé dans les marchés émergents.",
+    "bodySecondary": "Ce qui nous distingue : nous sommes créatifs, nous prenons des risques calculés et nous avons une compréhension profonde des contextes sociaux, culturels et politiques dans lesquels nos clients évoluent. Que vous lanciez un nouveau produit, construisiez une campagne de sensibilisation à une maladie ou entriez sur un nouveau marché, nous concevons des solutions sur mesure qui fonctionnent dans les contextes les plus exigeants.",
+    "principles": [
+      { "title": "Risque créatif", "description": "Nous construisons des communications vivantes, mémorables et assez précises pour les salles où les enjeux sont élevés." },
+      { "title": "Contexte culturel", "description": "Nous observons la manière dont les histoires circulent entre communautés, institutions et géographies." },
+      { "title": "Clarté à forts enjeux", "description": "Nous transformons des réalités complexes de business, de politique publique et de médias en récits que l’on peut porter." }
+    ]
+  },
+  "founder": {
+    "eyebrow": "Un mot de notre fondatrice",
+    "panelTitle": "Lettre de la fondatrice",
+    "panelNote": "Une note personnelle depuis le bureau du studio.",
+    "stamp": "Tampon J&F Studio",
+    "filedUnder": "Classé sous : intelligence culturelle, aventure créative, portée significative.",
+    "brief": "Note chaleureuse / No 01",
+    "greeting": "Bienvenue dans la famille J&F Studio.",
+    "paragraphs": [
+      "Au fil des années, nous avons créé des campagnes remarquables pour des entreprises de premier plan, et nous avons hâte d’apporter le même savoir-faire à votre travail. J’ai eu la chance de diriger des communications dans plusieurs pays, pour des institutions publiques, des organisations privées et des entreprises du Fortune 100 pendant plus d’une décennie.",
+      "Quand j’ai commencé dans le développement international, le secteur commençait tout juste à considérer l’intelligence culturelle comme une bonne pratique commerciale. Aujourd’hui, les cultures du monde continuent de façonner la manière dont les produits arrivent sur les marchés, dont les messages circulent et dont la confiance se construit. C’est ce que J&F Studio vous aide à faire : faire entendre votre message dans les cultures qui comptent pour votre activité.",
+      "Nous travaillons avec des équipes bilingues dans plusieurs pays, et nous sommes aussi engagés à mesurer l’impact qu’à le créer.",
+      "Rejoignez-nous pour une aventure créative."
+    ],
+    "signature": "Dior",
+    "role": "Fondatrice, J&F Studio",
+    "credentials": ["University of Chicago BA ’08", "Yale University MPH ’13"]
+  },
+  "help": {
+    "eyebrow": "Comment nous aidons",
+    "headlineLineOne": "La langue vous rend audible.",
+    "headlineLineTwo": "La culture vous rend digne de confiance.",
+    "items": [
+      {
+        "title": "Storytelling de marque et campagnes d’influence",
+        "label": "Influence",
+        "description": "Nous créons des campagnes de storytelling à fort impact et des récits de marque qui vous positionnent comme leader d’opinion dans votre secteur. Notre approche intègre votre proposition de valeur à un storytelling culturellement pertinent, afin que votre message résonne en profondeur et élève votre influence sur le marché."
+      },
+      {
+        "title": "Rapports de leadership d’opinion et insights sectoriels",
+        "label": "Autorité",
+        "description": "Nous produisons des rapports sectoriels, des insights stratégiques et des actifs fondés sur les données qui vous aident à façonner le récit et à établir votre autorité. Analyses d’entrée sur le marché, rapports de tendances sectorielles, livres blancs stratégiques — nous veillons à ce que votre expertise soit vue et entendue."
+      },
+      {
+        "title": "Positionnement médiatique et stratégie de récit public",
+        "label": "Présence",
+        "description": "Nous aidons les dirigeants, les organisations et les marques internationales à affiner leur image publique, leurs messages clés et leur positionnement médiatique afin de construire une présence forte sur leurs marchés. Qu’il s’agisse de stratégie RP, de relations médias ou de gestion de crise, nous façonnons l’histoire qui vous aide à garder la maîtrise du récit."
+      }
+    ]
+  },
+  "interlude": {
+    "eyebrow": "Changement de scène",
+    "headline": "Les histoires deviennent puissantes lorsqu’elles comprennent ce que les gens remarquent, répètent, retiennent et considèrent comme digne de confiance.",
+    "body": "Nous aidons votre message à être entendu dans les cultures qui comptent pour votre activité."
+  },
+  "services": {
+    "eyebrow": "Services / Modèles d’engagement",
+    "headline": "Un travail narratif haut de gamme, cadré avec précision.",
+    "body": "Choisissez un sprint ciblé, un accompagnement intégré ou un partenariat de production lorsque l’histoire exige stratégie, maîtrise créative et direction responsable.",
+    "idealLabel": "Idéal lorsque :",
+    "note": "Les frais de stratégie et de direction créative sont indiqués ci-dessus. Les coûts de production — y compris équipe, talents, post-production, licences et déplacements — sont cadrés et détaillés séparément dans chaque accord d’engagement.",
+    "packages": [
+      {
+        "title": "Story Sprint",
+        "price": "À partir de 12 000 $",
+        "timing": "2 à 4 semaines",
+        "description": "Pour les organisations qui ont besoin rapidement d’un livrable narratif à fort impact. Nous travaillons de manière intensive avec votre direction ou votre porte-parole désigné afin de produire un seul livrable finalisé : document de positionnement exécutif, cadre narratif de campagne, architecture narrative d’entrée sur le marché ou note de réponse à une crise. Vous repartez avec un élément livré dans l’urgence, défendable, distinctif et prêt à être déployé.",
+        "ideal": "Un dirigeant senior doit reformuler son récit avant un moment de conseil d’administration; une marque entrant sur un nouveau marché doit construire son histoire avant le lancement; un fonds a besoin d’un récit affûté avant une clôture finale.",
+        "cta": "Postuler"
+      },
+      {
+        "title": "Narrative Retainer",
+        "price": "À partir de 15 000 $/mois",
+        "timing": "Minimum 3 mois",
+        "description": "Pour les organisations qui ont besoin d’un stratège narratif senior intégré à leur travail. Nous fonctionnons comme votre conseil à la demande pour les communications stratégiques, le développement de messages, le positionnement médiatique et la direction créative. Vous obtenez un jugement senior lorsque les moments de communication surgissent, ainsi qu’un développement narratif proactif entre ces moments.",
+        "ideal": "Vous traversez une croissance active, une expansion de marché, une transition de leadership ou un travail de réputation soutenu, et le coût d’un récit mal cadré dépasse celui de l’accompagnement.",
+        "cta": "Postuler"
+      },
+      {
+        "title": "Full Production Partnership",
+        "price": "Demander une proposition",
+        "timing": "8 à 16 semaines",
+        "description": "Pour les organisations qui ont besoin de stratégie narrative et de production de contenu dans un engagement intégré. Nous développons l’histoire, puis construisons les actifs qui la portent : films, campagnes éditoriales, séries de leadership d’opinion, contenu vidéo exécutif, développement de podcasts. Un partenaire, une vision créative et une équipe responsable du brief à la livraison.",
+        "ideal": "Une institution financière construit une série de storytelling d’impact pour les relations investisseurs; une entreprise pharmaceutique produit des récits patients pour une campagne de sensibilisation; un fonds construit une histoire de marque pour une levée majeure; une entreprise lance une plateforme de leadership d’opinion sur un nouveau marché.",
+        "cta": "Demander une proposition"
+      }
+    ]
+  },
+  "cases": {
+    "eyebrow": "Études de cas",
+    "headline": "De vrais briefs. De vrais résultats.",
+    "labels": {
+      "challenge": "Défi",
+      "work": "Travail",
+      "outcome": "Résultat"
+    },
+    "items": [
+      {
+        "title": "Lancement d’une marque en oncologie dans une catégorie thérapeutique concurrentielle.",
+        "kicker": "Lancement oncologie",
+        "meta": "Secteur : Pharmaceutique · Type : Récit de marque et communications de lancement",
+        "challenge": "La marque devait entrer dans une catégorie thérapeutique encombrée avec un récit crédible pour les cliniciens, significatif pour les patients et suffisamment clair pour être porté par les équipes internes dans les communications de lancement.",
+        "work": "Le travail s’est concentré sur le récit de marque, les messages de lancement, le positionnement exécutif et une architecture de communication capable de traduire une science oncologique complexe en histoire humaine, prête pour le marché.",
+        "outcome": "Le récit de lancement a créé une base plus solide pour l’éducation du marché, l’alignement des parties prenantes et les communications publiques dans une catégorie où la confiance, la clarté et le timing sont essentiels.",
+        "attribution": "Travail dirigé par Dior Sarr, fondatrice de J&F Studio, dans un ancien rôle de stratège senior au sein d’une entreprise pharmaceutique mondiale."
+      },
+      {
+        "title": "Construction d’une plateforme pluriannuelle de sensibilisation au cancer du sein centrée sur les voix de patientes sous-représentées",
+        "kicker": "Plateforme de sensibilisation",
+        "meta": "Secteur : Pharmaceutique · Type : Campagne pluriannuelle de sensibilisation et production de contenu intégrée",
+        "challenge": "La campagne devait sensibiliser tout en plaçant au centre les voix de patientes trop souvent absentes de la communication santé traditionnelle, en particulier dans des communautés où la confiance et le contexte culturel façonnent la réception des messages.",
+        "work": "Le travail a réuni stratégie de sensibilisation, storytelling centré sur les patientes, production de contenu intégrée et architecture de campagne conçue pour élever les voix sous-représentées avec attention.",
+        "outcome": "La plateforme a créé un effort de sensibilisation plus humain et culturellement attentif, donnant à l’organisation une manière plus forte de relier priorités de santé publique et expériences vécues.",
+        "attribution": "Travail dirigé par Dior Sarr, fondatrice de J&F Studio, dans un ancien rôle de stratège senior au sein d’une entreprise pharmaceutique mondiale."
+      }
+    ]
+  },
+  "contact": {
+    "eyebrow": "Contact",
+    "headline": "Discutons",
+    "body": "Parlez-nous de votre travail et de la manière dont nous pouvons vous aider. Vous pouvez aussi nous écrire ou nous appeler directement, ou planifier un rendez-vous.",
+    "bodySecondary": "Si vous souhaitez nous réserver pour une formation, utilisez le même formulaire ci-dessous. Nous aimons intervenir auprès de publics sur les bonnes pratiques de communication à travers les contextes culturels.",
+    "sidebarTitle": "Entrer en contact",
+    "sidebarBody": "Réservez une consultation dès aujourd’hui pour discuter de la façon dont nous pouvons aider votre message à être entendu et vu.",
+    "appointmentCta": "Réserver un rendez-vous",
+    "selectPlaceholder": "Sélectionner",
+    "submit": "Envoyer",
+    "sending": "Envoi...",
+    "success": "Merci. Votre message est prêt pour l’équipe J&F Studio.",
+    "fields": {
+      "firstName": "Prénom",
+      "lastName": "Nom",
+      "email": "Adresse e-mail",
+      "organization": "Organisation",
+      "engagement": "Quel type d’engagement explorez-vous ?",
+      "timeline": "Calendrier approximatif",
+      "budget": "Fourchette budgétaire approximative",
+      "project": "Parlez-nous de votre projet"
+    },
+    "options": {
+      "engagement": ["Story Sprint", "Narrative Retainer", "Full Production Partnership", "Formation ou intervention", "Pas encore sûr — envie d’explorer"],
+      "timeline": ["Dans les 4 semaines", "1 à 3 mois", "3 à 6 mois", "Plus de 6 mois"],
+      "budget": ["Moins de 25 000 $", "25 000 $ à 75 000 $", "75 000 $ à 150 000 $", "150 000 $+", "Pas encore défini"]
+    }
+  },
+  "footer": {
+    "description": "J&F Studio est la branche créative de Jeli & Folks Inc., un cabinet mondial de conseil stratégique qui aide les entreprises à naviguer dans des marchés complexes.",
+    "locationsLabel": "Présences",
+    "locations": ["Montréal, Canada", "Dakar, Sénégal"],
+    "contactLabel": "Contact",
+    "email": "info@jelifolks.studio",
+    "phone": "(514) 447-1696"
+  }
+}
